@@ -21,12 +21,6 @@ www - смотрит на обоих клиентов
 *) настроить все без выключения selinux
 
 
-
-
-
-
-
-
 Как проверить работоспособность:
 После отработки vagrant up можно повыполнять dns запросы на client и client2.
 Для client:
@@ -101,15 +95,6 @@ Name:	www.newdns.lab
 Address: 192.168.50.16
 Name:	www.newdns.lab
 Address: 192.168.50.15
-
-
-
-
-
-
-
-
-
 
 Для client2:
 
