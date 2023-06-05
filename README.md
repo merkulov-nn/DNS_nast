@@ -1,7 +1,8 @@
 # DNS_nast
 OTUS ДЗ DNS/DHCP - настройка и обслуживание (Centos 7)
 настраиваем split-dns
-взять стенд https://github.com/erlong15/vagrant-bind
+взять стенд https://github.com/merkulov-nn/DNS_nasty
+
 добавить еще один сервер client2
 завести в зоне dns.lab
 имена
